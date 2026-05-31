@@ -10,7 +10,7 @@ This project analyzes 4 years of retail sales data using Power BI and Excel to i
 - Microsoft Excel
   ## Dashboard Preview
 
-![Dashboard]()
+![Dashboard](https://github.com/aradhika-saini/Retail-Sales-Analytics/blob/main/Retail%20sales%20analytics%20dashboard%20Screenshot.png)
 
 ## Key Features
 
