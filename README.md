@@ -8,6 +8,9 @@ This project analyzes 4 years of retail sales data using Power BI and Excel to i
 
 - Power BI
 - Microsoft Excel
+  ## Dashboard Preview
+
+![Dashboard]()
 
 ## Key Features
 
